@@ -1,0 +1,23 @@
+.th-width{
+    min-width: 185px;
+    text-align: center;
+}
+
+.radio-nilai:hover{
+    cursor: pointer;
+}
+
+/* table { border-collapse: collapse; width: 100%; } */
+/* th, td { padding: 8px 16px; } */
+
+
+.tableFixHead {
+  overflow: auto;
+  height: 400px;
+}
+
+.tableFixHead thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}

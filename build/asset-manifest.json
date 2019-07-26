@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8363e7dd.chunk.css",
+    "main.js": "/static/js/main.7a7195e8.chunk.js",
+    "main.js.map": "/static/js/main.7a7195e8.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.3c8e70be.chunk.js": "/static/js/2.3c8e70be.chunk.js",
+    "static/js/2.3c8e70be.chunk.js.map": "/static/js/2.3c8e70be.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fa8c17b87148d8da95d0e28152d46012.js": "/precache-manifest.fa8c17b87148d8da95d0e28152d46012.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.8363e7dd.chunk.css.map": "/static/css/main.8363e7dd.chunk.css.map",
+    "static/media/kalenderAkademik.pdf": "/static/media/kalenderAkademik.41442f9c.pdf",
+    "static/media/Login.css": "/static/media/loginimg.491c1255.png",
+    "static/media/notfoundimg.png": "/static/media/notfoundimg.189c20df.png",
+    "static/media/unj.png": "/static/media/unj.15ad9429.png",
+    "static/media/unj2.png": "/static/media/unj2.c341c44c.png"
+  }
+}

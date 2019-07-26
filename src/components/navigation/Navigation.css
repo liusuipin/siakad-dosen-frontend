@@ -1,0 +1,103 @@
+.bg-unj{
+    background-color: #00923f;
+}
+
+.bg-unj-yellow{
+  background-color: #fff500;
+}
+
+/* .akun-hover:hover{
+  background-color: #28a745;
+  border-radius: 0.3rem;
+} */
+
+.text-unj-yellow{
+  color: #fff500;
+}
+
+.text-gray-100 {
+    color: #f8f9fc !important;
+  }
+  
+  .text-gray-200 {
+    color: #eaecf4 !important;
+  }
+  
+  .text-gray-300 {
+    color: #dddfeb !important;
+  }
+  
+  .text-gray-400 {
+    color: #d1d3e2 !important;
+  }
+  
+  .text-gray-500 {
+    color: #b7b9cc !important;
+  }
+  
+  .text-gray-600 {
+    color: #858796 !important;
+  }
+  
+  .text-gray-700 {
+    color: #6e707e !important;
+  }
+  
+  .text-gray-800 {
+    color: #5a5c69 !important;
+  }
+  
+  .text-gray-900 {
+    color: #3a3b45 !important;
+  }
+
+.brand a{
+  color: white;
+}
+
+.brand a:hover{
+  color: white;
+  opacity: 0.8;
+}
+
+.biodata a:hover{
+  text-decoration: none;
+  background-color: #00923f !important;
+  color: white;
+}
+
+.dropdownitem{
+  /* background-color: #00923f; */
+}
+
+.dropdownitem:active{
+  background-color: #00923f !important;
+  color: white !important;
+  border: none !important;
+}
+
+.dropdownitem:hover{
+  background-color: #00923f !important;
+  color: white !important;
+}
+
+.akun:hover{
+  color: #fff500 !important;
+}
+
+/* .text-unj{
+  color: #495057;
+  list-style: none;
+}
+
+.text-unj:hover{
+  background-color: #00923f;
+  color: white;
+  text-decoration: none;
+}
+
+.text-unj:active{
+  background-color: #00923f;
+  color: white;
+  text-decoration: none;
+} */

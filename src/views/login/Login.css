@@ -1,0 +1,49 @@
+.bg-login-image {
+  background: url("loginimg.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.mt-6vh{
+    margin-top: 4vh;
+}
+
+.bg-unj-login{
+    background-color: #00923f;
+    height: 100%;
+}
+
+.bg-unj{
+    background-color: #00923f;
+}
+
+.btn-unj {
+    color: #fff;
+    background-color: #00923f !important;
+    border-color: #00923f;
+  }
+  
+  .btn-unj:hover {
+    color: #fff;
+    opacity: 0.5;
+  }
+
+  .form-control-user{
+    font-size: 0.8rem !important;
+    border-radius: 10rem !important;
+    padding: 1.5rem 1rem !important;
+  }
+
+  .br-1{
+      border-right: 1px solid rgba(0,0,0,.1);
+  }
+
+  .formgroup{
+    position: relative;
+  }
+
+  .user-icon, .pass-icon, .answer-icon{
+    position: absolute;
+    right: 13px;
+    top: 12px;
+  }

@@ -1,0 +1,33 @@
+.bl-unj{
+    border-left: 5px solid #00923f;
+}
+
+.text-unj{
+    color: #495057 !important;
+    /* list-style: none; */
+}
+
+.tabss a:hover{
+    cursor: pointer;
+}
+
+.card-shadow{
+    box-shadow: 6 6px 10px 6px rgba(0, 0, 0, 0.15)
+}
+
+.text-unjj{
+    color: #00923f !important;
+}
+
+.text-unjj-active{
+    /* color: white !important; */
+    background-color: #f8f9fa !important;
+    /* border: 1px solid #00923f !important; */
+    text-decoration: none !important;
+}
+
+.info-title:hover{
+    text-decoration: none !important;
+    color: #00923f !important;
+    font-size: 15px !important;
+}
